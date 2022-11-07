@@ -1,0 +1,9 @@
+.pagina {
+    margin: 100px;
+    background: #010357cc;
+    color: whitesmoke;
+    text-align: left;
+    display: flexbox;
+    margin-top: 2rem;
+    padding: 2rem;
+}
